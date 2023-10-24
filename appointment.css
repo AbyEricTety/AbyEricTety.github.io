@@ -1,0 +1,43 @@
+/* Add this to style the appointment button */
+#appointment-button {
+    background-color: #0072b3;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+#appointment-button:hover {
+    background-color: #00508b;
+}
+
+/* Style the form on the appointment page as needed */
+#appointment-form {
+    padding: 20px;
+}
+
+#appointment-form form {
+    /* Add styling for your form fields */
+}
+
+#appointment-form form button {
+    background-color: #0072b3;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+#appointment-form form button:hover {
+    background-color: #00508b;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+  }
